@@ -1,0 +1,41 @@
+body {
+  background-color: black;
+  text-align: center;
+  font-family: Verdana;
+}
+
+#main-heading {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+#sub-heading {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+h2 {
+  font-size: 21px;
+  color: gray;
+}
+
+.link h3 {
+  font-size: 16px;
+  font-weight: normal;
+  color: aquamarine;
+  text-decoration: underline;
+}
+
+.link h3:hover {
+  color: orange;
+}
+
+.copyright {
+  text-align: right;
+}
+
+video {
+  object-fit: contain;
+}
